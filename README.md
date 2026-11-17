@@ -1,9 +1,10 @@
-# FlightHunter AI: hosted demo
+# FlightHunter AI: booking launcher
 
 Live at https://tss99.github.io/flighthunter-ai-demo/
 
-Static build of FlightHunter AI. Searches run entirely in your browser on synthetic, clearly
-labelled demo fares: no real airline prices, no bookings, nothing sent to a server. Live sources,
-the Chrome based scraper and price alerts need the full application, whose source is private.
+Describe a trip and this page opens Google Flights, Skyscanner, MakeMyTrip, Cleartrip and ixigo
+with your airports, dates, passengers and cabin filled in. It shows no prices of its own: GitHub
+Pages has no server, and FlightHunter never shows made-up fares. Live fare comparison (real Trip.com
+fares, exact-flight links, price rechecks) runs in the full application, whose source is private.
 
 This repository only holds generated files and is overwritten on every deploy.
