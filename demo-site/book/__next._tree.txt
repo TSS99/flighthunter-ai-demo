@@ -1,5 +1,5 @@
-:HL["/flighthunter-ai-demo/_next/static/chunks/30nkm8dkmrd5s.css","style"]
+:HL["/flighthunter-ai-demo/_next/static/chunks/2hkjnz7qetyx4.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"book","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"demo-site","h":96,"c":"$Q2"}]]
-0:{"b":"k6gU5Jb-kvGudIJNIrJpO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"HKY3-ANL_rN55k_Pl2_Uh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
